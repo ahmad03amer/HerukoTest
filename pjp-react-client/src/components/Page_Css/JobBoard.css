@@ -1,0 +1,177 @@
+/* ==========================================================================
+   Browse Jobs Page Style
+   ========================================================================== */
+
+   .full-time {
+    font-size: 12px;
+    color: #fff;
+    background: #2c3e50 !important;
+    border-radius: 4px;
+    margin-left: 10px;
+    padding: 7px 18px;
+   
+  }
+  .salary {
+    font-size: 12px;
+    color: #fff;
+    background: #2c3e50 !important;
+    border-radius: 4px;
+    margin-left: 10px;
+    padding: 7px 18px;
+  }
+  .job-browse .pagination {
+    margin-top: 30px;
+  }
+  .job-browse .cat-list li {
+    padding: 7px 0;
+    border-bottom: 1px solid #eee;
+  }
+  .job-browse .cat-list li a {
+    text-decoration: none;
+    color: #999;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+  }
+  .job-list {
+    border: 2px solid #030303;
+    padding: 15px;
+    display: inline-block;
+    margin-bottom: 15px;
+  }
+  .job-list .thumb {
+    float: left;
+  }
+  .job-list .thumb img {
+    border-radius: 4px;
+  }
+  .job-list .job-list-content {
+    display: block;
+    margin-left: 125px;
+    position: relative;
+  }
+  .job-list .job-list-content h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .job-list .job-list-content p {
+    margin-bottom: 20px;
+  }
+  .job-list .job-tag {
+    border-top: 1px solid #ddd;
+    padding: 15px 0;
+    line-height: 35px;
+  }
+  .job-list .job-tag .meta-tag span {
+    font-size: 14px;
+    color: #999;
+    margin-right: 10px;
+  }
+  .job-list .job-tag .meta-tag span a {
+    color: #999;
+  }
+  .job-list .job-tag .meta-tag span a:hover {
+    color: #ff4f57;
+  }
+  .job-list .job-tag .meta-tag span i {
+    margin-right: 5px;
+  }
+  .job-list .job-tag .icon {
+    float: left;
+    border: 1px solid #ddd;
+    width: 40px;
+    height: 40px;
+    line-height: 42px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 18px;
+    background: #f1f1f1;
+    color: #ff4f57;
+    font-size: 16px;
+  }
+  .btn {
+    padding: 12px 30px;
+    color: rgb(226, 41, 41);
+    position: relative;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+    border: 1px;
+  }
+  .btn-common:hover,
+  .btn-common:focus {
+    color: rgb(0, 0, 0);
+    background: #ea4249;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+  }
+  
+  .btn-common {
+    background-color: #ff4f57;
+    border: none;
+    border-radius: 50px;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .inner-box {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin-bottom: 30px;
+    list-style: none;
+    margin-left: 400px;
+    position: relative;
+  }
+  
+  .sidebar {
+    margin-bottom: 30px;
+    margin-left: 200px;
+    
+  }
+  
+  .sidebar .widget {
+    border-bottom: 1px solid #E9E9E9;
+    margin-bottom: 22px;
+    padding-bottom: 30px;
+  }
+  .sidebar .widget:last-child {
+    border-bottom: none;
+  }
+  .sidebar .cat-list li {
+    padding: 7px 0;
+    border-bottom: 1px solid #eee;
+  }
+  .sidebar .cat-list{
+    padding: 7px 0;
+    border-bottom: 1px solid rgb(39, 5, 5);
+    list-style: none;
+    
+    position: relative;
+  }
+  .sidebar .cat-list li a {
+    text-decoration: none;
+    color: #999;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+  }
+  .sidebar .cat-list li .num-posts {
+    font-size: 12px;
+  }
+  .sidebar .cat-list li:last-child {
+    border: 50px;
+  }
+
+  .job-browse .cat-list li {
+    padding: 7px 0;
+    border-bottom: 2px solid rgb(235, 209, 209);
+  }
+
+  
+
